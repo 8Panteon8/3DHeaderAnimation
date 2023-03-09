@@ -32,6 +32,12 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 ```
 
+- **Level styling**
+
+```css
+transform: translateZ(-70px)
+```
+
 
 
 
